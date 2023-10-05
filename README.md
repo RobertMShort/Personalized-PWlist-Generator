@@ -15,6 +15,8 @@ File will be overwritten if run again, so best to save a list under another name
 
 Sample Input:
 
+'''
+
 Enter First Name: John
 
 Enter Last Name: Doe
@@ -36,7 +38,7 @@ Enter other numbers:
 777
 
 n
-
+'''
 
 See sample output file in repo
 
